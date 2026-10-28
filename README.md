@@ -8,7 +8,8 @@ A dark color theme for Visual Studio Code with a crimson background and a high-c
 
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=zynq.zafiro)
 
-
+### Deployment
+![Screenshot](./Images/Deployment.png)
 ### ZafiroDark
 
 ![Screenshot](./Images/ZafiroDark.png)
